@@ -1,1 +1,1 @@
-# JAVA-structure
+# JAVA_structure
